@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.first-p{
+    background-color: black;
+    color: white;
+}
+.contactbody{
+    background-color: blue;
+    font-weight: bolder;
+    
+}
+.contactbody h1{
+    color: red;
+}
+.contactbody a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.contactbody button{
+    background-color: red;
+    border-style: none;
+    border-radius: 2px;
+    padding: 3px;
+}
+.service-b a{
+    text-decoration: none;
+}
